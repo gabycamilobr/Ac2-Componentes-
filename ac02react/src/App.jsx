@@ -1,13 +1,13 @@
 import './App.css'
-import Apresentacao from './Componentes/Apresentacao/Apresentacao'
 import Banner from './Componentes/Banner/Banner'
+import Apresentacao from './Componentes/Apresentacao/Apresentacao'
 
 function App() {
 
   return(
     <>
     <Banner></Banner>
-    <Apresentacao />
+    <Apresentacao></Apresentacao>
     </>
   )
 
